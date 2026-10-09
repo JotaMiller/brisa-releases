@@ -3,6 +3,21 @@
     <channel>
         <title>Brisa</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Fri, 09 Oct 2026 08:54:36 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[### Languages
+- Brisa is now available in English, French and Spanish. It follows your Mac's language, or you can choose one in **Settings → General → Language**.
+- Dates and counts follow the language you choose (“1 item”, “3 items”).
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/brisa-releases/releases/download/v0.2.0/Brisa-0.2.0.dmg" length="4470503" type="application/octet-stream" sparkle:edSignature="uIfjJfoHeypb/o/8z/ySDGz1s/D06iab8cM1Ueuy5ywgoGshTLNbmSQ9412UJ8BB3zY8aCL6bK3wWGqC38/ZCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/JotaMiller/brisa-releases/releases/download/v0.2.0/Brisa3-2.delta" sparkle:deltaFrom="2" length="420334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QbN7LslgCvUlATnd0KAXAta3MnF94v6bAwPWOO2xU/Eoakvn+q54G6vrAG370eBPbteOqRNEyVPAiWR9eLADDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Fri, 09 Oct 2026 08:22:34 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
