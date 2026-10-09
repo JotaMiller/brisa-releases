@@ -8,11 +8,11 @@ This repository hosts Brisa **releases** and collects **bug reports and suggesti
 
 Download the latest `Brisa-<version>.dmg` from [Releases](https://github.com/JotaMiller/brisa-releases/releases/latest), open it and drag Brisa to *Applications*.
 
-Requirements: macOS 14 or later.
+Requirements: macOS 14 or later. Available in English, French and Spanish.
 
 > If macOS won't open the app the first time, go to *System Settings → Privacy & Security* and click “Open Anyway”.
 
-Once installed, Brisa updates itself. You can also check from *Brisa → Buscar actualizaciones…* or in *Configuración → Actualizaciones*. The app is in Spanish.
+Once installed, Brisa updates itself. You can also check from *Brisa → Buscar actualizaciones…* or in *Configuración → Actualizaciones*.
 
 ## Report a problem or suggest something
 
