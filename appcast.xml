@@ -2,5 +2,49 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Brisa</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Fri, 09 Oct 2026 08:22:34 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## First public release
+
+Brisa frees up space on your Mac safely: it shows what it found, how much you can recover and asks before deleting anything.
+
+### Overview (Resumen)
+- Disk usage at a glance, the status of each tool and **Analizar todo** (⇧⌘R) to run every scan at once.
+
+### Smart cleanup (Limpieza inteligente)
+- App caches, old logs, temporary files, Xcode derived data and the Trash.
+- Skips caches and temporary files used in the last 24 hours, so apps you're using aren't affected.
+
+### Storage (Espacio)
+- Large files, apps you haven't used in more than 180 days, leftover installers (`.dmg`, `.pkg`, `.ipsw`, `.xip`) and unavailable iOS simulators.
+- Files and apps are moved to the Trash, never deleted outright.
+
+### Uninstaller (Desinstalador)
+- Removes apps together with their hidden data in your Library (preferences, caches, support files), with a sortable, searchable list.
+
+### Development (Desarrollo)
+- **pnpm**: prune the store safely with `pnpm store prune`, find old store versions no project uses and clear the metadata cache.
+- npm, Yarn and Bun global caches and `npx`.
+- Project `node_modules` (with package manager and age), build caches from Next.js, Turborepo, Nuxt, SvelteKit, Parcel and Angular, and Rust `target` folders.
+- Caches from pip, uv, Go, Gradle, Cargo, CocoaPods, SwiftPM, Deno, Playwright, Puppeteer, Cypress and more.
+- Docker images and BuildKit cache (local contexts only).
+
+### Ports (Puertos)
+- See which processes are listening on TCP ports and stop them.
+
+### History (Historial)
+- A record of your scans and cleanups and the space you recovered.
+
+### Automatic updates
+- Brisa now updates itself. Check anytime from **Brisa → Buscar actualizaciones…** or in **Configuración → Actualizaciones**.
+
+The app is in Spanish. Requires macOS 14 or later. Native app for Apple silicon and Intel.
+]]></description>
+            <enclosure url="https://github.com/JotaMiller/brisa-releases/releases/download/v0.1.1/Brisa-0.1.1.dmg" length="3331131" type="application/octet-stream" sparkle:edSignature="zjqBduIYOmXcB0JCzzH0AFluuoCZEbL8mhmBy7I3P0yvmba2p4cDWv84680g4rAP0liuvhwRfGzIP8fgBWK5Bw=="/>
+        </item>
     </channel>
 </rss>
