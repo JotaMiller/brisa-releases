@@ -12,11 +12,11 @@ Requirements: macOS 14 or later.
 
 > If macOS won't open the app the first time, go to *System Settings → Privacy & Security* and click “Open Anyway”.
 
-Once installed, Brisa updates itself. You can also check from *Brisa → Check for Updates…* or in Settings → Updates.
+Once installed, Brisa updates itself. You can also check from *Brisa → Buscar actualizaciones…* or in *Configuración → Actualizaciones*. The app is in Spanish.
 
 ## Report a problem or suggest something
 
-Open an [issue](https://github.com/JotaMiller/brisa-releases/issues/new/choose). Include your version (Settings → Updates) and, if you can, the steps to reproduce it. Issues are public.
+Open an [issue](https://github.com/JotaMiller/brisa-releases/issues/new/choose). Include your version (Configuración → Actualizaciones) and, if you can, the steps to reproduce it. Issues are public.
 
 ---
 

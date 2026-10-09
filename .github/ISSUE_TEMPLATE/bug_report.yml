@@ -6,7 +6,7 @@ body:
     id: version
     attributes:
       label: Brisa version
-      description: Settings → Updates.
+      description: Configuración → Actualizaciones.
       placeholder: "0.1.0"
     validations:
       required: true
